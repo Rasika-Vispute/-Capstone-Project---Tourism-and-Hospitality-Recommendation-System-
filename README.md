@@ -1,6 +1,15 @@
 # -Capstone-Project---Tourism-and-Hospitality-Recommendation-System-
-
 # Project Details
+
+•	Synopsis:
+
+Developed a machine learning-based recommendation system that suggests travel destinations using content-based and collaborative filtering. Leveraged cosine similarity, Pearson correlation, and KNN to enhance recommendation accuracy and personalize user experiences.
+
+
+•	Key Skills: 
+
+Machine Learning, Recommendation Systems, Content-Based Filtering, Collaborative Filtering, Cosine Similarity, Pearson Correlation, KNN
+
 
 •	Overview:
 
